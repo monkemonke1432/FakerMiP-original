@@ -1,0 +1,8 @@
+Quick breakdown on how FakerMiP works:
+Broadcast: One MiP shouts to the entire "room" (your network, port 2014 UDP).
+
+Identity: Every MiP knows who is talking, so they don't respond to their own voice.
+
+Empathy: They react to friends leaving with a sad sound.
+
+Rhythm: They wait a moment after hearing a dance to make the movement look natural and unsynchronized.
